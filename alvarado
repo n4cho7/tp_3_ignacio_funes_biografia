@@ -1,0 +1,16 @@
+<?php
+function carteLA(){
+echo "---------------+\n";
+}
+
+function carteLB(){
+    echo "|           |\n";
+
+}
+
+carteLA ();
+carteLB();
+carteLB();
+carteLB();
+carteLB();
+carteLB();
